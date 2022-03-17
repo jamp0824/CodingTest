@@ -11,6 +11,6 @@ def print_prime(n):
     else:
         print(f"{n}은 소수가 아닙니다.")
     
-print_prime(238)
-print_prime(77)
+print_prime(97)
+print_prime(100)
     
