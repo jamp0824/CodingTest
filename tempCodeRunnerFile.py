@@ -1,1 +1,1 @@
-length = len(arr)
+n_arr
