@@ -35,4 +35,4 @@ result = binary_search(arr, length, target)
 if result:
     print(f"배열에 {target}가 존재합니다.")
 else:
-    print(f"배열에 {target}가 존재하지 않습니다.")
+    print(f"배열에 {target}가 존재하지 않습니다.123111")
